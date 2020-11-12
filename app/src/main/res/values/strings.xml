@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="languageList">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>French</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Urdu</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string-array name="storyIdList">
+        <item>Your Story</item>
+        <item>crazy_Duck</item>
+        <item>julekha_banu</item>
+        <item>hamida_kahtun</item>
+        <item>solaiman_kuddus</item>
+        <item>abdul_motin</item>
+        <item>monnan_sheikh</item>
+        <item>sojol_tel</item>
+        <item>ripon_video</item>
+        <item>hero_alom</item>
+    </string-array>
+
+    <string-array name="userIdList">
+        <item>crazy_Duck</item>
+        <item>julekha_banu</item>
+        <item>hamida_kahtun</item>
+        <item>solaiman_kuddus</item>
+        <item>abdul_motin</item>
+        <item>monnan_sheikh</item>
+        <item>sojol_tel</item>
+        <item>ripon_video</item>
+        <item>hero_alom</item>
+    </string-array>
+    <string-array name="captionList">
+        <item>Hello I am crazy_Duck</item>
+        <item>Hello I am Julekha_banu</item>
+        <item>Hello I am hamida_kahtun</item>
+        <item>Hello I am solaiman_kuddus</item>
+        <item>Hello I am abdul_motin</item>
+        <item>Hello I am monnan_sheikh</item>
+        <item>Hello I am sojol_tel</item>
+        <item>Hello I am ripon_video</item>
+        <item>Hello I am hero_alom</item>
+    </string-array>
+
+</resources>
